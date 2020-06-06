@@ -13,10 +13,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
     "body-parser": "^1.18.3",
-    "dialogflow": "^0.8.2",
-    "express": "^4.16.4",
-    "request": "^2.88.0",
+    "dialogflow": "^0.5.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.17.1",
+    "memorystore": "^1.6.2",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "pg": "^7.4.3",
+    "request": "^2.87.0",
     "uuid": "^3.3.2"
   }
 }
