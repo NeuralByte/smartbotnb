@@ -70,7 +70,7 @@ const sessionClient = new dialogflow.SessionsClient(
 const sessionIds = new Map();
 
 // Index route
-app.get('https://smartbotnb.herokuapp.com/webhook/', function (req, res) {
+app.get('https://smartbotnb.herokuapp.com/', function (req, res) {
     res.send('Hello world, I am a chat bot')
 })
 
