@@ -1,6 +1,8 @@
 module.exports = {
     FB_PAGE_TOKEN: 'EAAh2oTMLWOABAKClSkCoAi3xvf2SSNq8Hww4PDbiDD6lXJIzwzNTGYTctslZB8CFYSWFvisarb5X76faPlRmRhTwqShVEcCZCNyA0whQKy85YcEJmDCesVHggg5BQtBqlnmVtSVzDksIQ1eAkZANLZAkpYVvon3ODPJOsNZC1S09Ne5vCo683',
-    FB_VERIFY_TOKEN: 'smart',
+    FB_APP_ID:'2382234531879136',
+	FB_PAGE_INBOX_ID:'102303838176827',
+	FB_VERIFY_TOKEN: 'smart',
     FB_APP_SECRET: 'f5a8305548c702b8b66bd01de7703ce1',
     SERVER_URL: ' https://smartbotnb.herokuapp.com/',
     GOOGLE_PROJECT_ID: 'neuralbytesmartbot-nloegb',
