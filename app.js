@@ -156,7 +156,7 @@ const sessionIds = new Map();
 const usersMap = new Map();
 
 // Index route
-app.get('https://smartbotnb.herokuapp.com/', function (req, res) {
+app.get('/', function (req, res) {
 	res.send('Hello world, I am a chat bot')
 })
 
